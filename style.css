@@ -144,6 +144,7 @@ main h3 {
 }
 .education img {
     width: 558px;
+border: 2px solid black;
 
 }
 .education p:nth-child(3) {
