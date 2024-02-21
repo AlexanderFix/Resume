@@ -106,9 +106,9 @@ aside h3 {
     object-fit: cover;
 }
 
-.skills img:hover {
+/* .skills img:hover {
     opacity: 0.8;
-}
+} */
 
 .jobs li {
     list-style-type: none;
@@ -116,7 +116,7 @@ aside h3 {
 }
 
 .jobs li:hover a {
-
+scale: 105%;
     color: #cecece;
 }
 
